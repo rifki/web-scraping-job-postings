@@ -1,0 +1,15 @@
+{
+  "name": "webscraping_joblist_puppeteer",
+  "version": "1.0.0",
+  "description": "example web scrapping using puppeteer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rifki",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
