@@ -1,8 +1,13 @@
 ## Web Scraping Job Postings using Puppeteer
 
+### Install
+```sh
+$ npm install
+```
+
 ### Run
 ```sh
-node app.js
+$ node app.js
 ```
 
 ### Output
