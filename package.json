@@ -9,7 +9,8 @@
   "keywords": [],
   "author": "rifki",
   "license": "MIT",
-  "dependencies": {
-    "puppeteer": "^1.11.0"
+  "dependencies": {},
+  "devDependencies": {
+    "puppeteer": "^1.14.0"
   }
 }
